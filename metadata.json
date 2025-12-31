@@ -1,0 +1,5 @@
+{
+  "name": "SandersBuild-OS Matrix",
+  "description": "A high-end Android Firmware Buildsystem for Motorola G5S Plus (Sanders). Build LineageOS, ArrowOS, and more with a futuristic neon interface.",
+  "requestFramePermissions": []
+}
